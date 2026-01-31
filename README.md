@@ -42,6 +42,17 @@ node nayla.js yourfiles.js output.js
 >  Yes, that's right. Access to this tool requires a key. You can purchase the key from the owner of the Telegram account *@nayylacantip* for Rp5,000 rupiah.
 
 ---
-***@NekomonHub***
-***© License by NekomonHub, Copyright by NekomonHub***
-***2026/2027 ── NekomonHub and NayylaDeveloper***
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Termux_logo.png" alt="Termux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" alt="Kali Linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="MacOS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/nekomonhub/icons/nekomonhub-icon.svg" alt="NekomonHub" width="40" height="40"/>
+</div>
