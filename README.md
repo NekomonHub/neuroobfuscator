@@ -35,14 +35,14 @@ node nayla.js
 ```bash
 node nayla.js yourfiles.js output.js
 ```
----
+
 > - yourfiles.js *is the name of the file you want to obfuscate*
 > - output.js *Is the file name for your obfuscator output.*
----
+
 # Does this tool require key access?
 >  Yes, that's right. Access to this tool requires a key. You can purchase the key from the owner of the Telegram account *@nayylacantip* for Rp5,000 rupiah.
 
 ---
-@NekomonHub
-© License by NekomonHub, Copyright by NekomonHub
-2026/2027 ── NekomonHub and NayylaDeveloper
+***@NekomonHub***
+***© License by NekomonHub, Copyright by NekomonHub***
+***2026/2027 ── NekomonHub and NayylaDeveloper***
