@@ -12,7 +12,6 @@
 
 ---
 # How to use it on Termux?
-> (Ubuntu & Debian)
 **Installing Git, Unzip, Node.js LTS, and more..**
 ```bash
 pkg update -y && pkg upgrade -y
